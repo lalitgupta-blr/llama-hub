@@ -173,5 +173,17 @@
       "openai",
       "gpt-3"
     ]
+  },
+  "VRXToolSpec": {
+    "id": "tools/vrx",
+    "author": "vigilronyx",
+    "keywords": [
+      "ai-governance",
+      "neuro-symbolic",
+      "vrx-studio",
+      "compliance",
+      "audit-provenance",
+      "zero-retraining"
+    ]
   }
 }
