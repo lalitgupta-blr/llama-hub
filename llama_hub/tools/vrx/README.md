@@ -2,7 +2,7 @@
 
 This tool integrates **VRX Studio** (`vrx-studio` / `vrx-integrations`) into LlamaIndex / LlamaHub agents and query pipelines.
 
-VRX Studio provides a deterministic neuro-symbolic governance layer for LLMs. While traditional Vector RAG struggles with temporal policy updates, versioning, and compliance hierarchies, VRX Studio utilizes domain-adapted Task-LoRA adapters with runtime relational graph state injection to deliver:
+VRX Studio provides a deterministic neuro-symbolic governance layer for LLMs. While traditional Vector RAG struggles with temporal policy updates, versioning, and compliance hierarchies, VRX Studio utilizes domain-adapted Task adapters with runtime relational graph state injection to deliver:
 - 100% discrete mathematical recall without cosine embedding drift
 - Zero-retraining instant adaptation across policy mutations ($G_0 \to G_1$)
 - Full provenance attribution with cryptographic Merkle audit proofs
